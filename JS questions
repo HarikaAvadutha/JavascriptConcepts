@@ -1,0 +1,17 @@
+> Is Javascript single threaded
+> If single threaded how does it work asyncronously
+> Is javascript synchronous or asynchronous
+> Explain about event loop, web api
+> Order of precedence for variable declaration and function declaration
+> Why is let not hoisted
+> Tell about Enumerable, Configuarable and writable
+> can we loop over Enumerable if it is false
+> Can we loop over Configuarable if it is false
+> can we just modify existing properties or can add new properties with writable true?
+> How can we check the Configuarable, Enumerable and writable properties of an object
+> Explain about Global,local/block & lexical scope
+> Js concepts on memoization
+> Difference between call, apply and bind
+> How to access array method on a string with call/apply (borrowing methods)
+> Different types of for loops and use cases
+> Difference between callbacks and promises

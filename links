@@ -1,0 +1,59 @@
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence#Table
+
+https://www.sitepoint.com/create-chrome-extension-10-minutes-flat/
+
+https://addyosmani.com/resources/essentialjsdesignpatterns/book/
+
+https://www.scrumstudy.com/certification/scrum-fundamentals-certified
+
+https://dmitripavlutin.com/variables-lifecycle-and-why-let-is-not-hoisted/
+
+https://spin.atomicobject.com/2014/10/20/javascript-scope-closures/
+
+https://mariusschulz.com/blog/use-cases-for-javascripts-iifes
+
+http://javascriptissexy.com/16-javascript-concepts-you-must-know-well/
+
+https://en.wikibooks.org/wiki/JavaScript/Anonymous_functions#:~:text=An%20anonymous%20function%20is%20a,Hello%20world')%3B%20%7D%20hello()%3B
+
+https://medium.com/@vapurrmaid/should-you-use-classes-in-javascript-82f3b3df6195
+
+https://scotch.io/tutorials/understanding-memoization-in-javascript
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures#:~:text=In%20other%20words%2C%20a%20closure,created%2C%20at%20function%20creation%20time.
+
+https://blog.logrocket.com/understanding-symbols-in-javascript/
+
+https://blog.logrocket.com/evolution-async-programming-javascript/
+
+https://blog.logrocket.com/5-must-read-javascript-tutorials-2631123543f6/
+
+https://blog.logrocket.com/interesting-use-cases-for-javascript-bitwise-operators/
+
+https://medium.com/@happymishra66/execution-context-in-javascript-319dd72e8e2c#:~:text=Execution%20context%20(EC)%20is%20defined,to%20at%20a%20particular%20time.
+
+
+
+Typescript: https://www.tutorialspoint.com/typescript/typescript_overview.htm
+
+Es6:
+https://www.javatpoint.com/es6-decision-making
+http://es6-features.org/#Proxying
+
+String extension methods: https://www.shieldui.com/javascript-string-extension-methods
+
+Extension methods: https://www.extensionmethod.net/javascript
+
+Reflect/Proxy: https://tc39.es/ecma262/#sec-reflection
+
+sass: https://www.w3schools.com/sass/default.asp
+
+less: https://www.tutorialspoint.com/less/less_overview.htm
+
+transpillers: https://scotch.io/tutorials/javascript-transpilers-what-they-are-why-we-need-them
+
+Typed arrays: https://www.html5rocks.com/en/tutorials/webgl/typed_arrays/#:~:text=A%20Typed%20Array%20is%20a,data%20to%20a%20native%20representation.
+
+Diff types of modules: https://medium.com/computed-comparisons/commonjs-vs-amd-vs-requirejs-vs-es6-modules-2e814b114a0b#:~:text=The%20major%20difference%20arises%20in,uses%20just%20the%20exports%20variable.&text=The%20cons%20are%20just%20one,these%20modules%20directly%20without%20transpiling.
+
+Python interview questions: https://www.edureka.co/blog/interview-questions/python-interview-questions/
